@@ -16,4 +16,3 @@ ___
 | 2 |[Event Storming](Event_Storming.md)
 | 3 |[Class Diagram](Class_Diagram.md)
 | 4 |[MER](MER.md)
-
